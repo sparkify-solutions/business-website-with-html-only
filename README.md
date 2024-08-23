@@ -1,4 +1,4 @@
-# Learn HOW TO CREATE BUSINESS WEBSITE USING HTML ONLY.
+# LEARN HOW TO CREATE BUSINESS WEBSITE USING HTML ONLY.
 <p>How to create a Business website using HTML only.</p>
 <ul>
 <li>Create a Navigation bar at the top of the screen.</li>
